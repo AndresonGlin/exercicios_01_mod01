@@ -1,6 +1,6 @@
 <h1>Dev Full Stack Jr - Lista de Exercícios 1 - JavaScript</h1>
 <p>
-        Este repositório contém uma coleção de exercícios básicos em JavaScript para praticar lógica de programação e conceitos fundamentais da linguagem. Cada exercício aborda um problema específico e utiliza a biblioteca <code>prompt-sync</code> para entrada de dados no terminal.
+        Este repositório contém exercícios que contemplam as operações fundamentais, estruturas de controle condicional e de repetição. Para cada exercício utiliza-se a biblioteca <code>prompt-sync</code> para entrada de dados no terminal.
 </p>
 
 <h2>Pré-requisitos</h2>
@@ -32,7 +32,7 @@
 <h2>Como Executar</h2>
 <ol>
 <li>Clone este repositório:
-<pre><code>git clone https://github.com/AndresonGlin/exercicios_01_mod01;
+<pre><code>git clone https://github.com/AndresonGlin/exercicios_01_mod01.git;
 cd exercicios_01_mod01</code></pre>
 </li>
 <li>Execute o arquivo desejado com o Node.js:
