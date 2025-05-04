@@ -12,8 +12,11 @@
 
 <h2>Exercícios</h2>
 <ol>
-<li><strong>Par ou Ímpar:</strong> Solicita um número inteiro e informa se ele é par ou ímpar.</li>
-<li><strong>Classificação por Idade:</strong> Classifica uma pessoa como "Criança", "Adolescente", "Adulto" ou "Idoso" com base na idade fornecida.</li>
+<li><strong>Par ou Ímpar:</strong> Escreva um programa que recebe um número inteiro e verifica se ele é par ou ímpar
+utilizando uma estrutura de controle if.</li>
+<li><strong>Classificação por Idade:</strong> Crie um programa que classifica a idade de uma pessoa em categorias (criança,
+adolescente, adulto, idoso) com base no valor fornecido, utilizando uma estrutura de
+controle if-else.</li>
 <li><strong>Nota:</strong> Recebe uma nota de 0 a 10 e informa se o aluno está "Aprovado", em "Recuperação" ou "Reprovado".</li>
 <li><strong>Menu Interativo:</strong> Exibe um menu com opções para o usuário escolher, como "Olá", "Data atual" ou "Sair".</li>
 <li><strong>IMC:</strong> Calcula o Índice de Massa Corporal (IMC) com base no peso e altura fornecidos e classifica o resultado.</li>
